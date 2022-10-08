@@ -1,2 +1,4 @@
 # playlist
-plays the songs in a list
+plays the songs in a given list
+  opens firefox
+  
